@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "product": "GeoLibre",
+  "generated_at": "2026-09-03T07:30:47Z",
+  "max_mirrored_bytes": 104857600,
+  "release": {
+    "tag": "v2.9.0",
+    "name": "v2.9.0",
+    "published_at": "2026-09-03T00:36:13Z",
+    "github_url": "https://github.com/opengeos/GeoLibre/releases/tag/v2.9.0"
+  },
+  "artifacts": [
+    {
+      "name": "geolibre-android-arm.apk",
+      "size": 48614785,
+      "content_type": "application/vnd.android.package-archive",
+      "digest": "sha256:40e5524eca88f6d08c3ef7fa61563f813dfe10dbe3939f40c9db4ca0e3ae6081",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-android-arm.apk",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-android-arm.apk"
+    },
+    {
+      "name": "geolibre-android-arm64.apk",
+      "size": 52043135,
+      "content_type": "application/vnd.android.package-archive",
+      "digest": "sha256:e4fcf3e6ce557cb7e94c605d68c9dc062f2ea936253f0b334bc098189ecca263",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-android-arm64.apk",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-android-arm64.apk"
+    },
+    {
+      "name": "geolibre-android-x86.apk",
+      "size": 52940153,
+      "content_type": "application/vnd.android.package-archive",
+      "digest": "sha256:054f2f59cdd31cbef51e806fbdb4fe68e88d6c8c8eeb9acc1a6e3d236bff181c",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-android-x86.apk",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-android-x86.apk"
+    },
+    {
+      "name": "geolibre-android-x86_64.apk",
+      "size": 53017980,
+      "content_type": "application/vnd.android.package-archive",
+      "digest": "sha256:7e013ac6ff548e7191306fb60d360a3e166ec045ae9b46c9d470acffb6820232",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-android-x86_64.apk",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-android-x86_64.apk"
+    },
+    {
+      "name": "geolibre-chrome-0.3.0.zip",
+      "size": 48533,
+      "content_type": "application/zip",
+      "digest": "sha256:fe281688f800a49d138f624d1ae1c5a12a526d9b1543df94c47640009bcc300b",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-chrome-0.3.0.zip",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-chrome-0.3.0.zip"
+    },
+    {
+      "name": "geolibre-desktop-2.9.0-x64-portable.zip",
+      "size": 41814446,
+      "content_type": "application/zip",
+      "digest": "sha256:910451afcf6378862f471450eb51dfadb4b9282c2db3e0c83e09d458b1762ef5",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-desktop-2.9.0-x64-portable.zip",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-desktop-2.9.0-x64-portable.zip"
+    },
+    {
+      "name": "geolibre-desktop_darwin_aarch64",
+      "size": 46548880,
+      "content_type": "application/zip",
+      "digest": "sha256:e00d6f6d5fba33b9e402f8498b2e822eb58829a611af3241afdf4d084472399b",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-desktop_darwin_aarch64",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-desktop_darwin_aarch64"
+    },
+    {
+      "name": "geolibre-desktop_darwin_x64",
+      "size": 47113960,
+      "content_type": "application/zip",
+      "digest": "sha256:6c775adb74c93249ffb79cd8c3fec4d7be0d53f87aee82ee620bdacca03e04a8",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-desktop_darwin_x64",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-desktop_darwin_x64"
+    },
+    {
+      "name": "geolibre-desktop_linux_x64",
+      "size": 48694584,
+      "content_type": "application/zip",
+      "digest": "sha256:3ecec72b50089d4adf041176eed24dc78ab1fb22430ddbc3329a15ec210f0488",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-desktop_linux_x64",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-desktop_linux_x64"
+    },
+    {
+      "name": "geolibre-desktop_windows_x64.exe",
+      "size": 45881344,
+      "content_type": "application/zip",
+      "digest": "sha256:8e2d34b43eeb695cf9596ce051e40d4485dac2b51eed4d90074eba14ad9a0199",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/geolibre-desktop_windows_x64.exe",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/geolibre-desktop_windows_x64.exe"
+    },
+    {
+      "name": "GeoLibre.Desktop-2.9.0-1.x86_64.rpm",
+      "size": 42762469,
+      "content_type": "application/zip",
+      "digest": "sha256:9d74cb2bde0ab06862798b56331efe0988a2e31564f616c8ccdc33369169eca9",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop-2.9.0-1.x86_64.rpm",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop-2.9.0-1.x86_64.rpm"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_aarch64.app.tar.gz",
+      "size": 42668781,
+      "content_type": "application/zip",
+      "digest": "sha256:52ff5c987aaa64ac04213b330e411e8f691f2146ed01e22c5b4a878744dc598a",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_aarch64.app.tar.gz",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_aarch64.app.tar.gz"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_aarch64.dmg",
+      "size": 43616077,
+      "content_type": "application/zip",
+      "digest": "sha256:a44dbe559ecb181baee6ab471c7795eb0f0ba085cac2f0d8e19e208595c42606",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_aarch64.dmg",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_aarch64.dmg"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_amd64.AppImage",
+      "size": 122141176,
+      "content_type": "application/vnd.appimage",
+      "digest": "sha256:0632c42257ace4a0e78393ec0970763de0334481e4fab969d7813d3fe5001dcf",
+      "mirrored": false,
+      "download_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_amd64.AppImage",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_amd64.AppImage"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_amd64.deb",
+      "size": 42762342,
+      "content_type": "application/zip",
+      "digest": "sha256:bda214a912773675736517d3c7031cdef18263aeb007e437dc69ce6fa8258a4b",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_amd64.deb",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_amd64.deb"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_x64-setup.exe",
+      "size": 41272701,
+      "content_type": "application/zip",
+      "digest": "sha256:8ac2174534a5b065ba08cf68cc531241b727ae658775fe450fd12ffa9b9e2890",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_x64-setup.exe",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_x64-setup.exe"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_x64.app.tar.gz",
+      "size": 43286132,
+      "content_type": "application/zip",
+      "digest": "sha256:b056332d0327244271acfe1fc5db7707f3a034246c4ac85b082b841e24abfeeb",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_x64.app.tar.gz",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_x64.app.tar.gz"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_x64.dmg",
+      "size": 44242446,
+      "content_type": "application/zip",
+      "digest": "sha256:83f5d6c89f30dcd906324e6cb4fa09bfedce55e6eda1a8ec66717182a9a34cad",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_x64.dmg",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_x64.dmg"
+    },
+    {
+      "name": "GeoLibre.Desktop_2.9.0_x64_en-US.msi",
+      "size": 42176512,
+      "content_type": "application/zip",
+      "digest": "sha256:85ef91af65ae3665866ce2b0c7ab025d8a68de42804796713c24f63f4038389b",
+      "mirrored": true,
+      "download_url": "https://downloads.geolibre.app/artifacts/GeoLibre.Desktop_2.9.0_x64_en-US.msi",
+      "github_url": "https://github.com/opengeos/GeoLibre/releases/download/v2.9.0/GeoLibre.Desktop_2.9.0_x64_en-US.msi"
+    }
+  ],
+  "mirrored_bytes": 779505260,
+  "mirrored_count": 18,
+  "github_only_count": 1
+}
